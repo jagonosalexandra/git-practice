@@ -2,10 +2,10 @@
 
 Git Practice 1
 
-## Subheading
+## Subheading 1
 
 This is a subheading.
 
-## Subheading
+## Subheading 2
 
 This is another subheading.
